@@ -1,6 +1,7 @@
 
+<p align=center>
 <img src="./zen.jpg" alt="ZenoftechLogo" style="display: block; margin-right: auto; margin-left: auto;">
-
+</p>
 <br>
 <p align="center">
   <a href="https://github.com/zenoftech/Bash/pulls">
